@@ -2,6 +2,7 @@
 
 $servername="localhost";
 $username="root";
+
 $password="";
 $dbname="student_data";
 
